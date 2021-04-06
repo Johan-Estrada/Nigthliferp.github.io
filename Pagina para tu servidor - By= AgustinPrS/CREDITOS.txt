@@ -1,0 +1,29 @@
+﻿===================================================================================================
+* CREADOR: AgustinPrS
+* CANAL 1: https://www.youtube.com/channel/UCD-aDFOyq0bCjwPONRsGCGw
+* CANAL 2: https://www.youtube.com/channel/UChsoHQ28GaavxED_eWx-BAg
+* CANAL SAMP:  https://www.youtube.com/channel/UCKFLHalPndGdYNU7PPqq-vg
+====================================================================================================
+* LOGO CREADOR: Oblivion 
+* Twitter: @OblivionDSG
+* - No tiene canal, asi que apoyen a su cuenta
+por twitter, hace portadas y diseños muy buenos.
+
+=====================================================================================================
+Sobre la web: 
+Recursos: https://codepen.io/
+Website CSS: https://meyerweb.com/eric/tools/css
+Proteccion: 
+* - https://gwebsolution.blogspot.com.uy/2012/07/disable-f12-key-javascript.html 
+* - http://www.oloblogger.com/2011/05/deshabilitar-boton-derecho-en-una.html
+* - http://www.todoexpertos.com/categorias/tecnologia-e-internet/desarrollo-de-sitios-web/javascript/respuestas/830420/deshabilitar-tecla-ctrl
+
+=======================================================================================================
+Nota: El sitio web tiene 3 secciones.
+*La principal es para el lobby lo que veran al ingresar como los dos botones de foro y grupo de facebook
+*El segundo que es el del medio es donde esta "conoce nuestro equipo" coloque eso ya que no sabia que poner
+*El tercero es el de facebook que yo coloque mi pagina, una cosa el plugin de la pagina de facebook aveces no carga
+pero eso es solo cuestion de revisar y se arregla!
+========================================================================================================
+========================TE DEJO MI FACEBOOK POR SI QUIERES SABER MAS O ALGUNA AYUDA=====================
+¿Tienes alguna duda? - https://www.facebook.com/iAgustinPrS
